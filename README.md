@@ -21,6 +21,6 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:![Screen-Recording-2022-03-11-at-1]
+Here's a walkthrough of implemented user stories:
 
 <img src='https://user-images.githubusercontent.com/86577213/158006765-49e87ebb-6b34-4181-8a06-7b4fb1a45747.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
